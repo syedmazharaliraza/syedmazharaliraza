@@ -1,4 +1,4 @@
-## Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"> I'm Syed Mazhar!
+## Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45px"> I'm Syed Mazhar!
 <a href="https://www.linkedin.com/in/syed-mazhar-ali-raza-4027931ba/">
   <img  width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
 </a> 
