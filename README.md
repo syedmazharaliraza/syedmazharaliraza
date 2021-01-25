@@ -16,4 +16,4 @@
 🌱 Currently in my exploration stage, highly ambitious, and a real hard-worker for something of my interest.
 
 ## My Experiences 🙌
-- I am a mentee at [JGEC Winter of code 2k20](jwoc2k20.tech), which is a coding event organised for students to plunge into Open Source contribution and get the realm of Software Development, and managed to get 4 successful pull requests merged under a few beginner-friendly projects.
+- I am a mentee at [JGEC Winter of code 2k20](https://jwoc2k20.tech/), which is a coding event organised for students to plunge into Open Source contribution and get the realm of Software Development, and managed to get 4 successful pull requests merged under a few beginner-friendly projects.
