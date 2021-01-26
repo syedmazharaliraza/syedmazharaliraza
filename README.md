@@ -1,7 +1,10 @@
-h1 align="center">Hi 👋, I'm Syed Mazhar Ali Raza!</h1>
+<h1 align="center">Hi 👋, I'm Syed Mazhar Ali Raza!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazharaliraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazharaliraza" /> </p>
 
+<a href="https://www.linkedin.com/in/syed-mazhar-ali-raza-4027931ba/">
+  <img  width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
+</a> 
 <a href="https://twitter.com/110Syedmazhar">
   <img  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
