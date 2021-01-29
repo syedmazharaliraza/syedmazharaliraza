@@ -14,7 +14,7 @@
 
 ## About Me 🚀
 🎓 I’m an **Open-Source enthusiast** & a first year student pursuing my Bachelors in electronics and communications engineering. </br>
-👨‍💻  I am passionate about web-developement(both front-end and back-end) and still learning and exploring new languages/fields. </br>
+👨‍💻  I am passionate about web-development (both front-end and back-end) and still learning and exploring new languages/fields. </br>
 🌱 Currently in my exploration stage, highly ambitious, and a real hard-worker for something of my interest.
 
 ## My Experiences 🙌
