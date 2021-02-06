@@ -22,9 +22,11 @@
 🌱 Currently in my exploration stage, highly ambitious, and a real hard-worker for something of my interest.
 
 ## My Experiences 🙌
-- **mentee** at [JGEC Winter of code 2k20](https://jwoc2k20.tech/)(an open-source coding event):
+### **Mentee** at [JGEC Winter of code 2k20](https://jwoc2k20.tech/):<br>
+#### JANUARY 2021 - FEBRUARY 2021 <br>
     - I managed to get 5 successful pull requests merged under a few projects of technology stack: HTML, CSS, JAVASCRIPT.
-- **Project Mentor** at [Cross Winter of Code 2k21](https://crosswoc.ieeedtu.in/)(a six-week long open-source event): 
+### **Project Mentor** at [Cross Winter of Code 2k21]:<br>
+#### FEBRUARY 2021 - MARCH 2021 <br>
     - Mentored students for getting started to open-source contributions, and work on the project: [IntrepidKey](https://github.com/syedmazharaliraza/IntrepidKey) based on the technology stack: HTML, CSS, JAVASCRIPT.
     - My communication and technical skills were enhanced, leadership and management qualities were developed, confidence and motivation for open-source and programming was boosted, and many more benefits were experienced throughout the mentorship.
 
