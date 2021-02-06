@@ -26,7 +26,7 @@
 JANUARY 2021 - FEBRUARY 2021 <br>
 - Managed to get 5+ successful pull requests merged under a few projects of technology stack: HTML, CSS, JAVASCRIPT.
 - Learned and enhanced skills on git, github, and my tech stack(html, css, js), increased my communication and social confidence, learned dealing with issues and developing solutions in minimum time, and experienced many more benefits.
-### **Project Mentor** at [Cross Winter of Code 2k21](https://crosswoc.ieeedtu.in/) <br>
+### **Project Mentor** at [Cross Winter of Code 2021](https://crosswoc.ieeedtu.in/) <br>
 FEBRUARY 2021 - MARCH 2021 <br>
 - Mentored students for getting started to open-source contributions, and work on the <ins>project: [IntrepidKey](https://github.com/syedmazharaliraza/IntrepidKey)</ins> based on the technology stack: HTML, CSS, JAVASCRIPT.<br>
 - My communication and technical skills were enhanced, leadership and management qualities were developed, confidence and motivation for open-source and programming was boosted, and many more benefits were experienced throughout the mentorship.
