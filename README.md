@@ -8,9 +8,13 @@
 <a href="https://twitter.com/110Syedmazhar">
   <img  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://instagram.com/_syedmazhar_">
+  <img  width="26px" src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-black-borders-png-transparent-background.png" />
+</a>
 <a href="mailto:mazharali.raza11@gmail.com">
   <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
 
 ## About Me 🚀
 🎓 I’m an **Open-Source enthusiast** & a first year student pursuing my Bachelors in electronics and communications engineering. </br>
