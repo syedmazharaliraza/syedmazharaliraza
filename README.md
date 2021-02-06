@@ -3,16 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazharaliraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazharaliraza" /> </p>
 
 <a href="https://www.linkedin.com/in/syed-mazhar-ali-raza-4027931ba/">
-  <img  width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
+  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
 </a> &nbsp;
 <a href="https://twitter.com/110Syedmazhar">
-  <img  width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>&nbsp;
 <a href="https://instagram.com/_syedmazhar_">
-  <img  width="45px" src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-black-borders-png-transparent-background.png" />
+  <img  width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-black-borders-png-transparent-background.png" />
 </a>&nbsp;
 <a href="mailto:mazharali.raza11@gmail.com">
-  <img width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 
