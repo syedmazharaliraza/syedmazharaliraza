@@ -3,16 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazharaliraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazharaliraza" /> </p>
 
 <a href="https://www.linkedin.com/in/syed-mazhar-ali-raza-4027931ba/">
-  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
+  <img  width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612717680~hmac=ca661e637cb133feb042bf0d5af868e5"/> 
 </a> &nbsp;
 <a href="https://twitter.com/110Syedmazhar">
-  <img  width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1612717468~hmac=60e9e51474922127d10a1aebfce4292e" />
 </a>&nbsp;
 <a href="https://instagram.com/_syedmazhar_">
-  <img  width="40px" src="https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-black-borders-png-transparent-background.png" />
+  <img  width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1612717474~hmac=f2d86b967f82e7a80ec42bf867e6d9ae" />
 </a>&nbsp;
 <a href="mailto:mazharali.raza11@gmail.com">
-  <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1612717724~hmac=f616e257646d5463af357918ebdcdca6" />
 </a>
 
 
