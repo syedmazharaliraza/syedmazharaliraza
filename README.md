@@ -3,16 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazharaliraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazharaliraza" /> </p>
 
 <a href="https://www.linkedin.com/in/syed-mazhar-ali-raza-4027931ba/">
-  <img  width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612717680~hmac=ca661e637cb133feb042bf0d5af868e5" /> 
+  <img  width="40px" src="linkedin.png" /> 
 </a> &nbsp;
 <a href="https://twitter.com/110Syedmazhar">
-  <img  width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1613031332~hmac=b1d5d3c19dc544b6cf7a3d7dc9c77113" />
+  <img  width="40px" src="twitter.png" />
 </a>&nbsp;
 <a href="https://instagram.com/_syedmazhar_">
-  <img  width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1612717474~hmac=f2d86b967f82e7a80ec42bf867e6d9ae" />
+  <img  width="40px" src="insta.png" />
 </a>&nbsp;
 <a href="mailto:mazharali.raza11@gmail.com">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1612717724~hmac=f616e257646d5463af357918ebdcdca6" />
+  <img width="40px" src="gmail.png" />
 </a>
 
 
