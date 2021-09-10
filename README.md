@@ -34,4 +34,7 @@ FEBRUARY 2021 - MARCH 2021 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> </p>
 
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedmazharaliraza&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+<img align="right" height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=syedmazharaliraza&count_private=true&theme=radical&show_icons=true" />
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=syedmazharaliraza&theme=radical">
+
