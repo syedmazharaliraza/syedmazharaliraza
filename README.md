@@ -17,19 +17,31 @@
 
 
 ## About Me 🚀
-🎓 I’m an **Open-Source enthusiast** & a second year student pursuing my Bachelors in electronics and communications engineering. </br>
-👨‍💻  I am passionate about web-development (both front-end and back-end) and still learning and exploring new languages/fields. </br>
-🌱 Currently in my exploration stage, highly ambitious, and a real hard-worker for something of my interest.
+🎓  I am a 20-year-old engineering sophomore pursuing BTech in Electronics and Communications. </br>
+👨‍💻  I am passionate about web-development (full-stack) and well versed in MERN stack. </br>
+🌱 Currently in my exploration stage, highly ambitious, always agreeing to exposure and oppurtunities, love to interact with communities and a real hard-worker for something of my interest.
 
 ## My Experiences 🙌
-### **Mentee** at [JGEC Winter of code 2k20](https://jwoc2k20.tech/) <br>
-JANUARY 2021 - FEBRUARY 2021 <br>
-- Managed to get 5+ successful pull requests merged under a few projects of technology stack: HTML, CSS, JAVASCRIPT.
-- Learned and enhanced skills on git, github, and my tech stack(html, css, js), increased my communication and social confidence, learned dealing with issues and developing solutions in minimum time, and experienced many more benefits.
+### **Frontend Web Developer Intern** at [StudentPeeps](https://studentpeeps.club/) <br>
+October 2021 - present <br>
+- Rebuilding UI, introducing new pages and additional functionalities rapidly, and working the bugs out of StudentPeep's official website by dealing with complex codebase developed using Python Web framework: Django along with H/C/JavaScript & other libraries at the front end. <br>
+- About StudentPeeps: StudentPeeps is an invite-only community where university students get exclusive student discounts from their favorite brands. The startup deals with different brands to provide such student discounts.
+
+### **Alpha Microsoft Learn Student Ambassador** at [Microsoft](https://studentambassadors.microsoft.com/) <br>
+October 2021 - present <br>
+- Took my first workshop ever on how to get selected in Microsoft Learn Student Ambassador program as a fresher. I managed to conduct a successful 1:15 hour long session and was accompanied with 150+ consistent attendees. <br>
+- I plan to take session on Git and Github, Web dev related topics, personal branding, etc. I love to serve the community, especially freshers.
+- Microsoft Learn Student Ambassadors Program brings together selected students from all over the world who have the passion for technology and helping the community. It provides oppurtunities to interact with their peers, mentors, Professionals, and resources to learn various Microsoft technologies, and implement it in real world
+
 ### **Project Mentor** at [Cross Winter of Code 2021](https://crosswoc.ieeedtu.in/) <br>
 FEBRUARY 2021 - MARCH 2021 <br>
 - Mentored students for getting started to open-source contributions, and work on the <ins>project: [IntrepidKey](https://github.com/syedmazharaliraza/IntrepidKey)</ins> based on the technology stack: HTML, CSS, JAVASCRIPT.<br>
 - My communication and technical skills were enhanced, leadership and management qualities were developed, confidence and motivation for open-source and programming was boosted, and many more benefits were experienced throughout the mentorship.
+
+### **Mentee** at [JGEC Winter of code 2k20](https://jwoc2k20.tech/) <br>
+JANUARY 2021 - FEBRUARY 2021 <br>
+- Managed to get 5+ successful pull requests merged under a few projects of technology stack: HTML, CSS, JAVASCRIPT.
+- Learned and enhanced skills on git, github, and my tech stack(html, css, js), increased my communication and social confidence, learned dealing with issues and developing solutions in minimum time, and experienced many more benefits.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> </p>
