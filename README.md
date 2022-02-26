@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mazhar Ali Raza!</h1>
 
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGkEns-gDiHdQ/profile-displaybackgroundimage-shrink_350_1400/0/1643584456235?e=1651104000&v=beta&t=IDJ1ySgmO2UszhHMBVEPJmkS8Q3kT0H6lY81G8GUYFM">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazharaliraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazharaliraza" /> </p>
 
 <a href="https://www.linkedin.com/in/syed-mazhar-ali-raza-4027931ba/">
@@ -42,9 +44,6 @@ FEBRUARY 2021 - MARCH 2021 <br>
 JANUARY 2021 - FEBRUARY 2021 <br>
 - Managed to get 5+ successful pull requests merged under a few projects of technology stack: HTML, CSS, JAVASCRIPT.
 - Learned and enhanced skills on git, github, and my tech stack(html, css, js), increased my communication and social confidence, learned dealing with issues and developing solutions in minimum time, and experienced many more benefits.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> </p>
 
 <a href="https://github.com/syedmazharaliraza"> <img align="right" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></a>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=syedmazharaliraza&count_private=true&theme=radical&show_icons=true" />
