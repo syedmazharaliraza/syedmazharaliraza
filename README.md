@@ -25,7 +25,7 @@
 
 ## My Experiences 🙌
 ### **Frontend Web Developer Intern** at [StudentPeeps](https://studentpeeps.club/) <br>
-October 2021 - present <br>
+October 2021 - March 2022 <br>
 - Rebuilding UI, introducing new pages and additional functionalities rapidly, and working the bugs out of StudentPeep's official website by dealing with complex codebase developed using Python Web framework: Django along with H/C/JavaScript & other libraries at the front end. <br>
 - About StudentPeeps: StudentPeeps is an invite-only community where university students get exclusive student discounts from their favorite brands. The startup deals with different brands to provide such student discounts.
 
