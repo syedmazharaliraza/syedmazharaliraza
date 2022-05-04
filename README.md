@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Mazhar Ali Raza!</h1>
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGkEns-gDiHdQ/profile-displaybackgroundimage-shrink_350_1400/0/1643584456235?e=1651104000&v=beta&t=IDJ1ySgmO2UszhHMBVEPJmkS8Q3kT0H6lY81G8GUYFM">
+<img src="banner.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazharaliraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazharaliraza" /> </p>
 
