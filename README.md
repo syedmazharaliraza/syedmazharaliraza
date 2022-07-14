@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Mazhar Ali Raza!</h1>
 
-<img src="banner.jpg">
+<img src="banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazharaliraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazharaliraza" /> </p>
 
