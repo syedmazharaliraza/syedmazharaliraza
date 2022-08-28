@@ -19,11 +19,19 @@
 
 
 ## About Me 🚀
-🎓  I am a 20-year-old engineering sophomore pursuing BTech in Electronics and Communications. </br>
+🎓  I am a 21-year-old engineering sophomore pursuing BTech in Electronics and Communications. </br>
 👨‍💻  I am passionate about web-development (full-stack) and well versed in MERN stack. </br>
 🌱 Currently in my exploration stage, highly ambitious, always agreeing to exposure and oppurtunities, love to interact with communities and a real hard-worker for something of my interest.
 
 ## My Experiences 🙌
+### **Frontend Web Developer Intern** at [Markopolo.ai](https://www.markopolo.ai/) <br>
+June 2022 - September 2022 <br>
+-	Worked on localization of app using React I18next.
+-	Performed root cause analysis on production and pre-production issues.
+-	Integrated REST APIs. Translated designs and wireframes into robust, easy to maintain functional components.
+-	Tech stack- JavaScript, ReactJS, Redux, Typescript, SASS.
+
+
 ### **Frontend Web Developer Intern** at [StudentPeeps](https://studentpeeps.club/) <br>
 October 2021 - March 2022 <br>
 - Rebuilding UI, introducing new pages and additional functionalities rapidly, and working the bugs out of StudentPeep's official website by dealing with complex codebase developed using Python Web framework: Django along with H/C/JavaScript & other libraries at the front end. <br>
