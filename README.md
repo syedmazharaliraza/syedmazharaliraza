@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmazharaliraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmazharaliraza" /> </p>
 
-<a href="https://www.linkedin.com/in/syed-mazhar-ali-raza-4027931ba/">
+<a href="https://www.linkedin.com/in/syedmazharaliraza/">
   <img  width="40px" src="linkedin.png" /> 
 </a> &nbsp;
 <a href="https://twitter.com/110Syedmazhar">
@@ -19,18 +19,22 @@
 
 
 ## About Me 🚀
-🎓  I am a 21-year-old engineering sophomore pursuing BTech in Electronics and Communications. </br>
-👨‍💻  I am passionate about web-development (full-stack) and well versed in MERN stack. </br>
-🌱 Currently in my exploration stage, highly ambitious, always agreeing to exposure and oppurtunities, love to interact with communities and a real hard-worker for something of my interest.
+🎓  I am a 21-year-old pre-final year engineering student pursuing BTech in Electronics and Communications. </br>
+👨‍💻  I am passionate about frontend-development, full-stack and well versed in MERN stack. </br>
 
 ## My Experiences 🙌
+
+### **SDE I - Front End Engineer** at [Markopolo.ai](https://www.markopolo.ai/) <br>
+October 2022 - Present <br>
+-	Working on Tiktok ad flow in Markopolo's ad maker.
+- Worked on Shopify Integration so that Markopolo.ai users can leverage their products from Shopify accounts to generate ads.
+
 ### **Frontend Web Developer Intern** at [Markopolo.ai](https://www.markopolo.ai/) <br>
 June 2022 - September 2022 <br>
 -	Worked on localization of app using React I18next.
 -	Performed root cause analysis on production and pre-production issues.
 -	Integrated REST APIs. Translated designs and wireframes into robust, easy to maintain functional components.
 -	Tech stack- JavaScript, ReactJS, Redux, Typescript, SASS.
-
 
 ### **Frontend Web Developer Intern** at [StudentPeeps](https://studentpeeps.club/) <br>
 October 2021 - March 2022 <br>
