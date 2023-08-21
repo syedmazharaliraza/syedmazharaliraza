@@ -19,13 +19,18 @@
 
 
 ## About Me 🚀
-🎓  I am a 21-year-old pre-final year engineering student pursuing BTech in Electronics and Communications. </br>
+🎓  I am a 22-year-old pre-final year engineering student pursuing BTech in Electronics and Communications. </br>
 👨‍💻  I am passionate about frontend-development, full-stack and well versed in MERN stack. </br>
 
 ## My Experiences 🙌
 
+### **Front End Intern** at [Tealfeed](https://tealfeed.com/) <br>
+June 2023 - Present <br>
+-	Contributed to design library by creating UI components using ShadCN and integrating into Storybook docs.
+- Developed various frontend features including booking flows streamlining the overall booking process.
+
 ### **SDE I - Front End Engineer** at [Markopolo.ai](https://www.markopolo.ai/) <br>
-October 2022 - Present <br>
+October 2022 - March 2023 <br>
 -	Working on Tiktok ad flow in Markopolo's ad maker.
 - Worked on Shopify Integration so that Markopolo.ai users can leverage their products from Shopify accounts to generate ads.
 
