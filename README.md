@@ -63,6 +63,4 @@ JANUARY 2021 - FEBRUARY 2021 <br>
 - Learned and enhanced skills on git, github, and my tech stack(html, css, js), increased my communication and social confidence, learned dealing with issues and developing solutions in minimum time, and experienced many more benefits.
 
 <a href="https://github.com/syedmazharaliraza"> <img align="right" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></a>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=syedmazharaliraza&count_private=true&theme=radical&show_icons=true" />
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=syedmazharaliraza&theme=radical">
 
